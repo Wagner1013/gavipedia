@@ -1,0 +1,28 @@
+.heading {
+    text-align: center;
+    font-family: DejaVu Serif;
+    font-size: 15vh;
+    line-height: 1vh;
+}
+.subheading {
+    text-align: center;
+    font-family: DejaVu Serif;
+    font-size: 5vh;
+    line-height: 1vh;
+}
+.madeby {
+    text-align: center;
+    font-family: DejaVu Serif;
+    font-size: 2vh;
+}
+.twoheader {
+    text-align: center;
+    font-family: DejaVu serif;
+}
+.pagenav {
+    color: black;
+    text-align: center;
+    margin: 3vh;
+    font-family: DejaVu Serif;
+    font-size: 2vh;
+}

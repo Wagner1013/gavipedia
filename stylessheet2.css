@@ -1,0 +1,52 @@
+html {
+    background-color: white;
+    font-family: Arial;
+}
+.gavipedia {
+    text-align: center;
+    font-family: DejaVu Serif;
+    line-height: 1vh;
+    font-size: 10vh;
+}
+.title {
+    text-align: center;
+}
+.database {
+    text-align: center;
+    font-family: DejaVu Serif;
+}
+
+.pagenav {
+    color: black;
+    text-align: center;
+    margin: 3vh;
+    font-family: DejaVu Serif;
+    font-size: 2vh;
+}
+
+.dashed {
+    text-align: center;
+}
+.carryNation {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.williamGarrison {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.caption {
+    text-align: center;
+    font-size: x-small;
+}
+.citation {
+    text-align: center;
+    font-size: xx-small;
+}
+.small {
+    font-size: 2vh;
+}
